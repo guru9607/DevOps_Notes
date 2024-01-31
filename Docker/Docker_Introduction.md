@@ -76,3 +76,4 @@ Single file with all the dependencies and configuration required to run a progra
 ### 5) Docker Container
 - A container is a bundle of Application, Application libraries required to run your application and the minimum system dependencies.
 - Container is an instance of the image.
+
